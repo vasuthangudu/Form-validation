@@ -1,0 +1,29 @@
+#Register{
+    width: 270px;
+    height: 260px;
+    /* background-color: rgb(120 366, 414); */
+    background-image: url(https://media.istockphoto.com/id/585483588/photo/defocused-blue-sky-abstract-background.jpg?s=612x612&w=0&k=20&c=PISJ6Yu4baoDWxZ0Wa3zCj-USXXn2sHv7zqkRT6QuVM=);
+}
+#v{
+    margin-top: -70px;
+    margin-left: 90px;
+    color: black;
+}
+#m{
+    align-items: center;
+    margin-left: -40px;
+    margin-top: -80px;
+}
+#f{
+  margin-top: 90px; 
+  margin-left: 280px;
+  
+}
+#e{
+background-image:url(https://media.istockphoto.com/id/157686859/photo/abstract-light-blue-background-textured-effect-xxxl.jpg?s=1024x1024&w=is&k=20&c=f1e5P7zHPzX3NxGgknYPXK3-Pzio3cZXaWOZZaL-28I=)
+
+}
+
+#t{
+    margin-left: 50px;
+}
